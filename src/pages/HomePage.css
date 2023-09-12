@@ -1,0 +1,25 @@
+
+.allcountries{
+    margin-top: 20px;
+}
+
+.name-country {
+    text-transform: none !important;
+    color: black;
+    text-decoration: none;
+}
+
+.name-country:hover {
+    color: red;
+}
+
+.home {
+    display: inline-block;
+    width: 15rem;
+    height: 10rem;
+}
+
+.image {
+    margin-top: 22px;
+    height: 97px;
+}
